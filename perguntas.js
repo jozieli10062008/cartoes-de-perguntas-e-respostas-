@@ -1,7 +1,7 @@
 criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'biologia?',
+    'A Biologia é uma área complexa que se destina ao estudo dos seres vivos'
 )
 
 criaCartao(
@@ -12,8 +12,8 @@ criaCartao(
 
 criaCartao(
     'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'matematica?',
+    'A matemática nos auxilia no raciocínio, inclusive, em outras disciplinas'
 )
 
 criaCartao(
